@@ -1,0 +1,1 @@
+# onboardai-open5gs
